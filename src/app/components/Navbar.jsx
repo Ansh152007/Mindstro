@@ -43,7 +43,7 @@ const Navbar = () => {
           </li>
 
           <li className="flex gap-4 items-center justify-center">
-            <Link href="/pulse">
+            <Link href="/pulse/mind">
               <img className="max-sm:w-7" src="pulse.svg" alt="" />
               <span className="max-md:hidden">Pulse</span>
             </Link>

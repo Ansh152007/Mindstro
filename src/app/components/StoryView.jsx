@@ -6,6 +6,12 @@ const StoryView = () => {
         <span className='ml-2 h-12 w-12 flex justify-center items-center bg-white rounded-full border-2 border-red-600'>
           <img className='w-12 rounded-full ' src="Mindstro_logo.png" alt="" />
         </span>
+      <span className='ml-2 h-12 w-12 flex justify-center items-center bg-white rounded-full border-2 border-red-600'>
+        <img className='w-12 rounded-full ' src="Mindstro_logo.png" alt="" />
+      </span>
+      <span className='ml-2 h-12 w-12 flex justify-center items-center bg-white rounded-full border-2 border-red-600'>
+        <img className='w-12 rounded-full ' src="Mindstro_logo.png" alt="" />
+      </span>
     </div>
   )
 }
